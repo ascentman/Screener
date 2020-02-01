@@ -1,0 +1,7 @@
+browser
+documents
+instagram
+music
+telegram
+twitter
+youtube
